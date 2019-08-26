@@ -28,5 +28,5 @@ end
 
 def selects_bear_that_killed_Tim
   
-  ".schema"
+  ".schema;"
 end
